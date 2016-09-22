@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Line.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Mat3.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Mat4.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Pixel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Vec3.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Vec4.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Figure2D.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Bullet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ship.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Asteroid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BigAst.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MidAst.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SmallAst.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Line.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Mat3.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Mat4.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Pixel.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Vec3.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Vec4.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Figure2D.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Asteroid.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ship.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bullet.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\BigAst.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MidAst.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SmallAst.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
